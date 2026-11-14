@@ -8,11 +8,20 @@ FraudShield AI is an interactive machine-learning application for identifying po
 
 > Screenshot filenames must match the files in your GitHub `screenshots/` folder. Rename your images or update the paths below.
 
-### Dashboard
-![FraudShield AI Dashboard](screenshots/dashboard.png)
+### Dashboard 1
+![FraudShield Dashboard 1](screenshots/Dashboard1.png)
 
-### Analytics and Transaction Explorer
-![FraudShield AI Analytics](screenshots/analytics.png)
+### Dashboard 2
+![FraudShield Dashboard 2](screenshots/Dashboard2.png)
+
+### Dashboard 3
+![FraudShield Dashboard 3](screenshots/Dashboard3.png)
+
+### Dashboard 4
+![FraudShield Dashboard 4](screenshots/Dashboard4.png)
+
+### Dashboard 5
+![FraudShield Dashboard 5](screenshots/Dashboard5.png)
 
 ## 📊 Dataset
 
