@@ -10,19 +10,19 @@ FraudShield AI is an interactive machine-learning application for identifying po
 
 
 ### Dashboard 1
-![FraudShield Dashboard 1](Dashboard1.png)
+![FraudShield Dashboard 1](Dashboard5.png)
 
 ### Dashboard 2
-![FraudShield Dashboard 2](Dashboard2.png)
+![FraudShield Dashboard 2](Dashboard4.png)
 
 ### Dashboard 3
 ![FraudShield Dashboard 3](Dashboard3.png)
 
 ### Dashboard 4
-![FraudShield Dashboard 4](Dashboard4.png)
+![FraudShield Dashboard 4](Dashboard2.png)
 
 ### Dashboard 5
-![FraudShield Dashboard 5](Dashboard5.png)
+![FraudShield Dashboard 5](Dashboard1.png)
 ## 📊 Dataset
 
 **Credit Card Fraud Detection** — publicly available on [Kaggle (Machine Learning Group, ULB)](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud).
